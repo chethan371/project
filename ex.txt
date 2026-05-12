@@ -1,10 +1,7 @@
 
-HIi this is chethan and i am learning git
+HIi this is chethan and i am learning git and github for devops   
 
-
-
-
-
+ 
 
 
 
